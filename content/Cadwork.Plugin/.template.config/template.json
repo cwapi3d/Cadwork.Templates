@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Cadwork",
+  "classifications": [ "Common" ],
+  "identity": "Cadwork.Plugin",
+  "name": "Cadwork Plugin",
+  "shortName": "cadworkplugin",
+  "sourceName":"Cadwork.Plugin",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
